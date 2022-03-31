@@ -50777,9 +50777,9 @@ A.Ao.prototype={
 M(a,b){return new A.ra(B.xg,"Rodrigo Castro",A.a6O(null,B.eH),!1,null)}}
 A.zA.prototype={
 M(a,b){var s,r=null,q=$.aaK(),p=A.u5(r,r,r,r,r,r,r,r,"Nico",r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),o=t.E,n=A.a([new A.hT(new A.bu(16,16,16,16),A.a2b(B.z3,B.dS,B.AX,B.eF),r)],o),m=t.w,l=A.pS(r,r,r,new A.eA(q,new A.yC(new A.pr("images/back1.jpeg"),B.tf),r,r,r,r,B.aM),b.O(m).f.a.b,r,r,b.O(m).f.a.a),k=b.O(m).f
-k=A.pS(r,r,B.Bj,r,b.O(m).f.a.b/3,r,r,k.a.a)
+k=A.pS(r,r,B.Bj,r,b.O(m).f.a.b,r,r,k.a.a)
 s=b.O(m).f
-o=A.ael(A.a([l,k,A.pS(r,r,B.eH,r,b.O(m).f.a.b/3,r,r,s.a.a)],o),B.eE)
+o=A.ael(A.a([l,k,A.pS(r,r,B.eH,r,b.O(m).f.a.b,r,r,s.a.a)],o),B.eE)
 return new A.tl(new A.po(new A.jp("RED RODRIGO",r,p,r),n,0,B.aF,new A.GC(r,r,1/0,56),r),new A.Cw(!0,o,r),q,r)}}
 A.ig.prototype={
 gl(a){return this.b},
